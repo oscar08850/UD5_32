@@ -2,3 +2,23 @@ body {
     background-image: url("../../img/hand-painted-watercolor-background-with-sky-and-clouds-shape.jpg");
     background-repeat: repeat;
 }
+
+.form-control{
+    width: 300px;
+}
+
+
+.container{
+    background-color: rgb(144, 213, 245);
+    width: 600px;
+    border-radius: 2rem;
+}
+
+.btn-primary{
+    background-color: #FEBA0B;
+    color: black;
+}
+
+.btn-primary:hover{
+    background-color: #a27400;
+}
